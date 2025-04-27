@@ -68,12 +68,13 @@ We may update this privacy policy periodically. When changes are made, they will
 
 You have the right to request access to the personal information we hold about you, subject to providing proof of your identity. You may also request corrections to your personal information or ask us to stop processing it for marketing purposes by contacting us or and can leave using our apps / products.
 
-**10. Contact Us**
 
-If you have any questions or concerns regarding this privacy policy or our handling of your personal data, please contact us at:
-
-**Disclaimer:**
+**10. Disclaimer:**
 This app is an independent preparation tool for the UK Driving Theory Test. It is not affiliated with or endorsed by the Driver and Vehicle Standards Agency (DVSA) or any UK government agency.
 All practice questions are based on publicly available DVSA materials.
 
-- **Email**: wishpool.arcade@gmail.com
+**11. Contact Us**
+
+If you have any questions or concerns regarding this privacy policy or our handling of your personal data, please contact us at:
+
+**Email**: wishpool.arcade@gmail.com
