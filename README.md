@@ -72,4 +72,8 @@ You have the right to request access to the personal information we hold about y
 
 If you have any questions or concerns regarding this privacy policy or our handling of your personal data, please contact us at:
 
+**Disclaimer:**
+This app is an independent preparation tool for the UK Driving Theory Test. It is not affiliated with or endorsed by the Driver and Vehicle Standards Agency (DVSA) or any UK government agency.
+All practice questions are based on publicly available DVSA materials.
+
 - **Email**: wishpool.arcade@gmail.com
